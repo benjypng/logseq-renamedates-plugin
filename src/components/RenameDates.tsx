@@ -34,8 +34,10 @@ const RenameDates = ({
     <div id="renamepages-menu">
       <div className="info-section">
         <h1>Rename Dates</h1>
+        <p>
+          Old date format (change this in the plugin settings): {oldDateFormat}
+        </p>
         <p>Current preferred date format: {preferredDateFormat} </p>
-        <p>Old date format: {oldDateFormat}</p>
         <p>Total number of pages to rename: {pagesToRename.length}</p>
         <button
           onClick={renamePages}
