@@ -10,8 +10,7 @@ Easily rename date pages when you change your preferred date format.
 ![](screenshots/demo.png)
 
 3. Pages will be merged, i.e. content from the old page will be merged to the new one.
-4. (Optional) Reindex.
-3. Re-index.
+4. Re-index.
 
 # Installation
 
